@@ -5,7 +5,7 @@ By Tyler Lewis
 
    2021
 
-Improved and more thorough version of 'Java_scratchDatabase' project written in C++ and utilizing a binary search tree for data storage.
+Improved and more thorough version of 'Java_HashMapDatabase' project written in C++ and utilizing a binary search tree for data storage.
 
 Faculty/students will auto be loaded/unloaded from and into storage files in project directory at construction and destruction of project instances.
 
